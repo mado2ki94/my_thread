@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  my_thread: one
+  content: MyString
+  string: MyString
+
+two:
+  my_thread: two
+  content: MyString
+  string: MyString
